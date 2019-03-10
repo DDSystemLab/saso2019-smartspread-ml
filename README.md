@@ -1,4 +1,4 @@
-# seams2019-smartspread-ml
+# Smart Spread ML
 
 Smart spread algorithm is a VM selection algorithm that is used to deploy new container in serverless computing platforms. This repository contains the dataset and machine learning model used in our methodology. Take a look at our self-explanatory [jupyter notebook](PredictionTP.ipynb).
 
